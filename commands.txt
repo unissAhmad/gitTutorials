@@ -1,3 +1,7 @@
 1 - git status // used to check git repository
 2 - git init // used to make a folder git repository
-3 - 
+3 - git . // used to add all the files in repository
+4 - git commit -m "version 1" //
+4 - git log // used to check what changes has been made and by whom
+5 - git config --global user.name "<username>" // used to change name in all repositories -*remove <>*-
+6 - git config --global user.email "<email>" // used to change email in all repositories -*remove <>*-
